@@ -9,16 +9,7 @@ This guide contains practical knowledge, investigations, hunting queries, RTR co
 ### 🔎 Advanced Event Search
 
 Threat hunting and investigations.
-
-Topics:
-
-- Command History Hunting
-- Unsuccessful Logins Followed by Successful Login
-- Discovery Commands
-- Time Travel Detection
-- Browser Extensions
-
-➡️ [Open Guide](./Advanced-Event-Search.md)Falcon Identity Protection
+➡️ [Open Guide](./Advanced-Event-Search.md) Falcon Identity Protection
 
 Topics:
 
