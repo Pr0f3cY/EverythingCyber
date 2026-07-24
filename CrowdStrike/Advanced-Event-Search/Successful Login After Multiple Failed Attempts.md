@@ -90,6 +90,7 @@ Potential Credential Abuse
 // Final output
 | groupBy([aid, ComputerName, event_platform, LastSuccessfulLogon, LastLogonTime, FailedLogonAccounts, FailedLogonAttempts, "User Search", "Asset Graph", Description], function=[], limit=max)
 ```
+### Output Example
 
 <br>
 
