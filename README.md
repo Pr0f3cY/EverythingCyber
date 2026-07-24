@@ -1,5 +1,6 @@
-# Hello, I'm Leonardo! I'm a Cybersecurity Specialist, you can check out my Linkedin profile at:
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Leonardo
+# You may check my linkedin profil
+<a href="https://www.linkedin.com/in/lleonardocruzz/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
