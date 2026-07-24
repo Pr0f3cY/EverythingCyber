@@ -1,0 +1,48 @@
+# AES Cheat Sheet
+
+## Authentication
+
+```sql
+event_simpleName=UserLogonFailed2
+```
+
+```sql
+event_simpleName=UserAccountLocked
+```
+
+## PowerShell
+
+```sql
+ImageFileName=*powershell.exe*
+```
+
+## CMD
+
+```sql
+ImageFileName=*cmd.exe*
+```
+
+## Services
+
+```sql
+event_simpleName=ServiceStarted
+```
+
+## Network
+
+```sql
+event_simpleName=NetworkConnectIP4
+```
+
+## USB
+
+```sql
+event_simpleName=RemovableMediaVolumeMounted
+```
+
+## RDP
+
+```sql
+event_simpleName=RemoteDesktopSessionEstablished
+```
+``
