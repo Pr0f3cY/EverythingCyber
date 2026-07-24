@@ -11,7 +11,7 @@ This guide contains practical knowledge, investigations, hunting queries, RTR co
 Very useful for Threat hunting and investigations.
 ➡️ [AES: Guide](./Advanced-Event-Search.md)
 
-Topics:
+Topics in AES:
 
 - Account Lockouts
 - Password Spraying
