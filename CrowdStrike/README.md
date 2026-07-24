@@ -9,7 +9,8 @@ This guide contains practical knowledge, investigations, hunting queries, RTR co
 ### 🔎 Advanced Event Search ➡️ [AES: Guide](./Advanced-Event-Search.md)
 Very useful for Threat hunting and investigations.
 
-### 🔧 Real Time Response
+
+### 🔧 Real Time Response ➡️ [RTR: Guide](./Real-Time-Response.md)
 
 Topics:
 
