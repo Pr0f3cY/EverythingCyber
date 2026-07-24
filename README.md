@@ -9,28 +9,11 @@ My objective with this page is to provide some guidance to people learning Cyber
 
 ## Tools and How-to
 
-| Security Operations & Incident Response       | URL      |
+| Security Operations & Incident Response       | Guide      |
 |-----------------------------------------------|----------------------------|
-| CrowdStrike Falcon         | <a href="https://google.com">Crowdstrike Falcon</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Cisco Umbrella</a>|
-| Security Automation with Shuffle SOAR         | <a href="https://google.com">Cisco Umbrella</a>|
-| Incident Response Planning and Execution      |  <a href="https://google.com">Cisco Umbrella</a>|
-| Case Management with TheHive                  |  <a href="https://google.com">Cisco Umbrella</a>|
-| Scripting and Automation for Threat Mitigation |  <a href="https://google.com">Cisco Umbrella</a>|
-
-## Tools and How-to
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| CrowdStrike Falcon         | <a href="https://google.com">Crowdstrike Falcon - Guide</a>|
+| Cisco Umbrella | <a href="https://google.com">Cisco Umbrella - Guide</a>|
+| Windows - Event Viewer    | <a href="https://google.com">Windows - Event Viewer - Guide</a>|
+| Cloudflare      |  <a href="https://google.com">Cloudflare - Guide</a>|
 
 
-
-## Projects
-- Detection Lab
-- SOC Automation Project
