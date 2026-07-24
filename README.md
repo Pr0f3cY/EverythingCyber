@@ -1,4 +1,4 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Leonardo! You may check my Linkedin below:
 <a href="https://www.linkedin.com/in/lleonardocruzz/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
