@@ -6,7 +6,7 @@ This guide contains practical knowledge, investigations, hunting queries, RTR co
 
 ## Modules
 
-### 🔎 Advanced Event Search ➡️ [AES: Guide](./Advanced-Event-Search.md)
+### 🔎 Advanced Event Search ➡️ [AES: Guide](./Advanced-Event-Search)
 Very useful for Threat hunting and investigations.
 
 
