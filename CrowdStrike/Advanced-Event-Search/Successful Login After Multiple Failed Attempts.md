@@ -91,7 +91,7 @@ Potential Credential Abuse
 | groupBy([aid, ComputerName, event_platform, LastSuccessfulLogon, LastLogonTime, FailedLogonAccounts, FailedLogonAttempts, "User Search", "Asset Graph", Description], function=[], limit=max)
 ```
 ### Output Example
-<img src="images/Successful-Login-After-Multiple-Failed-Attempts.png" width="800">
+<img src="images/Successful-Login-After-Multiple-Failed-Attempts.png" width="1200">
 <br>
 
 ---
