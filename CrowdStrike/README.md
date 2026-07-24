@@ -8,8 +8,8 @@ This guide contains practical knowledge, investigations, hunting queries, RTR co
 
 ### 🔎 Advanced Event Search
 
-Threat hunting and investigations.
-➡️ [Open Guide](./Advanced-Event-Search.md) Falcon Identity Protection
+Very useful for Threat hunting and investigations.
+➡️ [AES: Guide](./Advanced-Event-Search.md)
 
 Topics:
 
