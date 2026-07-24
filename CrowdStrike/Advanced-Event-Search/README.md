@@ -6,7 +6,7 @@ CrowdStrike Falcon Advanced Event Search hunting queries and investigation playb
 
 ### 💻 Command & Process Hunting
 
-[/Command-History-Hunting.md]
+➡️ [Command History Hunting](./Command-History-Hunting.md)
 - [/Discovery-Commands.md
 - ./PowerShell-Hunting.md
 
